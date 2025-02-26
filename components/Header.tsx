@@ -20,7 +20,7 @@ export default function Header() {
           <div className="flex lg:flex-1">
             <a href="#" className="flex items-center space-x-3">
               <Image src="/deals-logo.png" alt="World Mobile Deals" width={40} height={40} priority />
-              <span className="text-lg font-semibold tracking-wide">World Mobile Deals</span>
+              <span className="text-lg font-semibold tracking-wide">World Mobile Referral</span>
             </a>
           </div>
           {/* Desktop Navigation */}

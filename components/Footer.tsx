@@ -52,7 +52,7 @@ export default function Footer() {
                          height={40} 
                          priority
                        />
-                       <span className="text-lg font-semibold tracking-wide">World Mobile Deals</span>
+                       <span className="text-lg font-semibold tracking-wide">World Mobile Referral</span>
                      </a>
 
           <p className="text-sm text-lightGrey">
