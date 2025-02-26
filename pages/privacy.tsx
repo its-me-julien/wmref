@@ -4,10 +4,10 @@ export default function PrivacyPolicy() {
   return (
     <>
       <Head>
-        <title>Privacy Policy - World Mobile Deals</title>
+        <title>Privacy Policy - World Mobile Referral</title>
         <meta
           name="description"
-          content="Read the Privacy Policy for World Mobile Deals. Learn how we collect, use, and protect your data."
+          content="Read the Privacy Policy for World Mobile Referral. Learn how we collect, use, and protect your data."
         />
         <link rel="canonical" href="https://worldmobilereferral.com/privacy/" />
       </Head>
@@ -18,7 +18,7 @@ export default function PrivacyPolicy() {
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">1. Introduction</h2>
           <p className="mt-2 text-midGrey">
-            Welcome to World Mobile Deals. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect data on our website and services.
+            Welcome to World Mobile Referral. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect data on our website and services.
           </p>
         </section>
 
@@ -58,11 +58,12 @@ export default function PrivacyPolicy() {
         </section>
 
         <section className="mt-6">
-          <h2 className="text-xl font-semibold text-black">7. Data Security</h2>
-          <p className="mt-2 text-midGrey">
-            We employ security measures via Google Analytics (GA4) and Cloudflare to protect the anonymised data we collect.
-          </p>
-        </section>
+        <h2 className="text-xl font-semibold text-black">7. Data Security</h2>
+        <p className="mt-2 text-midGrey">
+          We use Google Analytics (GA4) and Cloudflare Analytics to collect anonymised usage data. In addition, Cloudflare provides robust security measures to safeguard our website.
+        </p>
+      </section>
+
 
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">8. Changes to This Privacy Policy</h2>
@@ -76,7 +77,7 @@ export default function PrivacyPolicy() {
           <p className="mt-2 text-midGrey">
             If you have any questions about this Privacy Policy, please contact us at{" "}
             <a href="mailto:hello@worldmobile.club" className="hover:underline">
-            hello@worldmobile.club
+              hello@worldmobile.club
             </a>.
           </p>
         </section>

@@ -46,7 +46,7 @@ export default function Footer() {
           <div className="space-y-6">
          <a href="https://worldmobiledeals.com/" className="flex items-center space-x-3">
                        <Image 
-                         src="/deals-logo.png" 
+                         src="/web-app-manifest-512x512.png" 
                          alt="World Mobile Deals" 
                          width={40} 
                          height={40} 
@@ -56,7 +56,7 @@ export default function Footer() {
                      </a>
 
           <p className="text-sm text-lightGrey">
-            Get the best prices and deals on World Mobile plans and home internet.
+           Find the best referral code for World Mobile.
           </p>
 
             <div className="flex space-x-6">

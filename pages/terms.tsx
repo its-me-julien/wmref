@@ -4,10 +4,10 @@ export default function TermsOfService() {
   return (
     <>
       <Head>
-        <title>Terms of Service - World Mobile Deals</title>
+        <title>Terms of Service - World Mobile Referral</title>
         <meta
           name="description"
-          content="Read the Terms of Service for World Mobile Deals. Understand the rules and conditions for using our services."
+          content="Read the Terms of Service for World Mobile Referral. Understand the rules and conditions for using our services."
         />
         <link rel="canonical" href="https://worldmobilereferral.com/terms/" />
       </Head>
@@ -18,7 +18,7 @@ export default function TermsOfService() {
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">1. Introduction</h2>
           <p className="mt-2 text-midGrey">
-            Welcome to World Mobile Deals. We showcase the latest discounts, exclusive offers, and promotions available for World Mobile Phone Plans. As an affiliate website, we earn a commission on successful referrals. By accessing our site, you agree to these Terms of Service.
+            Welcome to World Mobile Referral. We showcase the latest discounts, exclusive offers, and promotions available for World Mobile Phone Plans and World Mobile Home Internet Plans. As an affiliate website, we earn a commission on successful referrals. By accessing our site, you agree to these Terms of Service.
           </p>
         </section>
 
@@ -32,14 +32,14 @@ export default function TermsOfService() {
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">3. Intellectual Property</h2>
           <p className="mt-2 text-midGrey">
-            All content on World Mobile Deals is owned by World Mobile Deals and its content sponsors. The World Mobile Logo is the property of World Mobile Group. You may not reproduce or distribute any materials without our prior written consent.
+            All content on World Mobile Referral is owned by World Mobile Referral and its content sponsors. The World Mobile Logo is the property of World Mobile Group. You may not reproduce or distribute any materials without our prior written consent.
           </p>
         </section>
 
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">4. Limitation of Liability</h2>
           <p className="mt-2 text-midGrey">
-            World Mobile Deals is not liable for any indirect, incidental, or consequential damages arising from your use of our services.
+            World Mobile Referral is not liable for any indirect, incidental, or consequential damages arising from your use of our services.
           </p>
         </section>
 
@@ -62,7 +62,7 @@ export default function TermsOfService() {
           <p className="mt-2 text-midGrey">
             If you have any questions about these Terms of Service, please contact us at{" "}
             <a href="mailto:hello@worldmobile.club" className="hover:underline">
-            hello@worldmobile.club
+              hello@worldmobile.club
             </a>.
           </p>
         </section>
