@@ -1,7 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  // You can add other configurations as needed
-}
+  trailingSlash: true, // Exports each page as its own folder (with an index.html file)
+  basePath: '/wmref',
+  assetPrefix: '/wmref/',
+  images: {
+    unoptimized: true,
+  },
+};
 
 module.exports = nextConfig;
