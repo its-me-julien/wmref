@@ -18,28 +18,28 @@ export default function TermsOfService() {
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">1. Introduction</h2>
           <p className="mt-2 text-midGrey">
-            Welcome to World Mobile Referral. We showcase the latest discounts, exclusive offers, and promotions available for World Mobile Phone Plans and World Mobile Home Internet Plans. As an affiliate website, we earn a commission on successful referrals. By accessing our site, you agree to these Terms of Service.
+            Welcome to World Mobile Referral. We are an independent affiliate platform showcasing the latest discounts, exclusive offers, and promotions for World Mobile Phone Plans and World Mobile Home Internet Plans. World Mobile Referral is not affiliated with, sponsored by, or endorsed by World Mobile. As an affiliate website, we earn a commission on successful referrals. By accessing our site, you agree to these Terms of Service.
           </p>
         </section>
 
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">2. User Responsibilities</h2>
           <p className="mt-2 text-midGrey">
-            You agree to use our services legally and responsibly, and to comply with all applicable local laws. While there are no specific rules regarding content submissions or reviews beyond the requirement to follow the law, any misuse may result in account suspension or termination.
+            You agree to use our services legally and responsibly and to comply with all applicable local laws. While there are no specific rules regarding content submissions or reviews beyond the requirement to follow the law, any misuse may result in restricted access to our platform.
           </p>
         </section>
 
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">3. Intellectual Property</h2>
           <p className="mt-2 text-midGrey">
-            All content on World Mobile Referral is owned by World Mobile Referral and its content sponsors. The World Mobile Logo is the property of World Mobile Group. You may not reproduce or distribute any materials without our prior written consent.
+            All original content on World Mobile Referral is owned by World Mobile Referral and its content sponsors. Any trademarks, logos, or brand names referenced on this site remain the property of their respective owners. The World Mobile logo is the property of World Mobile Group and is used here for informational purposes only. You may not reproduce or distribute any materials from this site without prior written consent.
           </p>
         </section>
 
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">4. Limitation of Liability</h2>
           <p className="mt-2 text-midGrey">
-            World Mobile Referral is not liable for any indirect, incidental, or consequential damages arising from your use of our services.
+            World Mobile Referral provides informational content and referral links but does not guarantee the availability, pricing, or performance of any third-party services, including World Mobile’s offerings. World Mobile Referral is not liable for any direct, indirect, incidental, or consequential damages arising from your use of this website.
           </p>
         </section>
 

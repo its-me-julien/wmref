@@ -23,17 +23,17 @@ export default function Example() {
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-              Referral codes for World&nbsp;Mobile plans.
+              How does the World Mobile referral program work?
             </h1>
             <p className="mt-6 text-lg leading-8 text-white">
-            Unlock exclusive perks and discounts on your next World Mobile plan with our verified referral codes.
+           Learn how to join the program, where to start, and how to earn rewards for referring your friends and family.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <a
                 href="https://wmtx.cc/mobile"
                 className="rounded-md bg-primary px-3.5 py-2.5 text-sm font-semibold text-black shadow-sm hover:bg-primary focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary"
               >
-                Get a code
+                Start here
               </a>
             </div>
           </div>

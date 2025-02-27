@@ -18,66 +18,82 @@ export default function PrivacyPolicy() {
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">1. Introduction</h2>
           <p className="mt-2 text-midGrey">
-            Welcome to World Mobile Referral. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect data on our website and services.
+            Welcome to World Mobile Referral. We are an independent platform providing information on referral opportunities. 
+            We are not affiliated with, sponsored by, or endorsed by World Mobile.
           </p>
         </section>
 
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">2. Information We Collect</h2>
           <p className="mt-2 text-midGrey">
-            We collect anonymised usage data automatically. This includes details such as IP addresses, browser type, and usage metrics. We do not collect personal data like your name, email, or phone number.
+            We collect anonymized usage data automatically, including IP addresses, browser type, and usage metrics. 
+            We do not collect personally identifiable information such as your name, email, or phone number.
           </p>
         </section>
 
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">3. Tracking Technologies</h2>
           <p className="mt-2 text-midGrey">
-            We use cookies and tracking technologies such as Google Analytics (GA4) and Cloudflare Analytics to gather anonymised usage data. These tools help us improve our services and user experience.
+            We use cookies and tracking technologies such as Google Analytics (GA4) and Cloudflare Analytics 
+            to analyze anonymized traffic patterns and improve user experience. These tools do not store personally identifiable data.
+            You can adjust your browser settings to manage or disable cookies.
           </p>
         </section>
 
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">4. How We Use Your Data</h2>
           <p className="mt-2 text-midGrey">
-            The data we collect is used solely for service improvement and marketing purposes. Since all data is anonymised, it does not personally identify you.
+            The anonymized data we collect is used for website performance analysis, security monitoring, 
+            and improving our services. It is never linked to individual users.
           </p>
         </section>
 
         <section className="mt-6">
           <h2 className="text-xl font-semibold text-black">5. Data Sharing</h2>
           <p className="mt-2 text-midGrey">
-            We do not share any data with third parties. All collected data is retained for internal use only.
+            We do not sell or share user data with third parties. However, anonymized data may be processed 
+            by analytics providers such as Google Analytics and Cloudflare to help us understand website traffic patterns.
           </p>
         </section>
 
         <section className="mt-6">
-          <h2 className="text-xl font-semibold text-black">6. User Rights</h2>
+          <h2 className="text-xl font-semibold text-black">6. Data Retention</h2>
           <p className="mt-2 text-midGrey">
-            Although you have the right to access, correct, or delete your data, no such actions are necessary as we only collect anonymised data which does not identify you personally.
+            Anonymized analytics data is stored for a limited period and is used only for improving website performance. 
+            Data retention policies follow the terms set by Google Analytics (GA4) and Cloudflare.
           </p>
         </section>
 
         <section className="mt-6">
-        <h2 className="text-xl font-semibold text-black">7. Data Security</h2>
-        <p className="mt-2 text-midGrey">
-          We use Google Analytics (GA4) and Cloudflare Analytics to collect anonymised usage data. In addition, Cloudflare provides robust security measures to safeguard our website.
-        </p>
-      </section>
-
+          <h2 className="text-xl font-semibold text-black">7. User Rights</h2>
+          <p className="mt-2 text-midGrey">
+            As we do not collect personal data, there is no need for users to request deletion or correction. 
+            If you have any privacy concerns, you may contact us for further clarification.
+          </p>
+        </section>
 
         <section className="mt-6">
-          <h2 className="text-xl font-semibold text-black">8. Changes to This Privacy Policy</h2>
+          <h2 className="text-xl font-semibold text-black">8. Data Security</h2>
+          <p className="mt-2 text-midGrey">
+            We implement industry-standard security measures, including Cloudflare’s security protocols, to protect against unauthorized access 
+            and ensure safe browsing.
+          </p>
+        </section>
+
+        <section className="mt-6">
+          <h2 className="text-xl font-semibold text-black">9. Changes to This Privacy Policy</h2>
           <p className="mt-2 text-midGrey">
             We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+            Users are encouraged to review this policy periodically.
           </p>
         </section>
 
         <section className="mt-6">
-          <h2 className="text-xl font-semibold text-black">9. Contact Us</h2>
+          <h2 className="text-xl font-semibold text-black">10. Contact Us</h2>
           <p className="mt-2 text-midGrey">
             If you have any questions about this Privacy Policy, please contact us at{" "}
             <a href="mailto:hello@worldmobilereferral.com" className="hover:underline">
-            hello@worldmobilereferral.com
+              hello@worldmobilereferral.com
             </a>.
           </p>
         </section>

@@ -13,11 +13,12 @@ export default function Home() {
       
 
     <Head>
-    <title>World Mobile Referral</title>
-        <meta
-          name="description"
-          content="World Mobile Referral Code"
-        />
+    <title>World Mobile Referral Guide</title>
+    <meta
+      name="description"
+      content="Learn how to participate in World Mobile's referral opportunities."
+    />
+
         <link rel="canonical" href="https://worldmobilereferral.com/" />
       </Head>
       
